@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Nirmalkumar</h1>
-<h3 align="center">Fullstack Developer | Cloud Enthusiast | Problem Solver</h3>
+<h3 align="center">Front-end Developer </h3>
 
 <p align="center">
-  <a href="https://your-portfolio-link.com" target="_blank">🌐 Portfolio</a> •
-  <a href="https://linkedin.com/in/your-profile" target="_blank">💼 LinkedIn</a> •
-  <a href="https://twitter.com/your-handle" target="_blank">🐦 Twitter</a> •
-  <a href="mailto:rishisudhakar123@gmail.com">📧 Contact</a>
+  <a href="https://[your-portfolio-link.com](https://nirmalkumarofllll.github.io/Portfolio/)" target="_blank">🌐 Portfolio</a> •
+  <a href="www.linkedin.com/in/nirmalkumarp-ofllll" target="_blank">💼 LinkedIn</a> •
+  <a href="mailto:nirmal2404620@gmail.com">📧 Contact</a>
 </p>
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+
 
 ---
 
 ### 📊 GitHub Stats  
 <p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
   <img src="https://github-readme-stats.vercel.app/api?username=Rishi-Sudhakar&show_icons=true&theme=tokyonight" width="48%" />
 </p>
 
@@ -41,7 +41,7 @@
 ### 📫 Get in Touch  
 💬 Feel free to **reach out** for collaborations, discussions, or just to say hi!  
 
-📧 **Email:** rishisudhakar123@gmail.com  
+📧 **Email:** nirmal2404620@gmail.com 
 📌 **Portfolio:** [your-portfolio-link.com](https://your-portfolio-link.com)  
 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
 
