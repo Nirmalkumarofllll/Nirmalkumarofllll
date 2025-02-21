@@ -14,11 +14,6 @@
 ### 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rishi-Sudhakar&show_icons=true&theme=tokyonight" width="48%" />
- 
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Rishi-Sudhakar/Rishi-Sudhakar/main/github-stats.png" width="80%" />
 </p>
 
 ---
