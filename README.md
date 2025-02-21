@@ -7,6 +7,7 @@
   <a href="https://twitter.com/your-handle" target="_blank">🐦 Twitter</a> •
   <a href="mailto:rishisudhakar123@gmail.com">📧 Contact</a>
 </p>
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
 ---
 
