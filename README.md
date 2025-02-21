@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Nirmalkumar</h1>
 <h3 align="center">A Passionate Fullstack Developer | Problem Solver | Tech Enthusiast</h3>
 
 <p align="center">
@@ -30,8 +30,8 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nirmalkumarofllll&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nirmalkumarofllll&theme=tokyonight" width="48%" />
 </p>
 
 ---
