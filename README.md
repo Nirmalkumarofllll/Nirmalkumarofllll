@@ -49,16 +49,15 @@
 ### ⚡ Backend & Databases  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 
 ### 🛡️ Cybersecurity  
 ![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-000000?style=for-the-badge&logo=hack-the-box&logoColor=white)  
-![Intrusion Detection](https://img.shields.io/badge/Intrusion%20Detection-red?style=for-the-badge)  
 
 ### ☁️ Cloud & DevOps  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
 
@@ -102,20 +101,11 @@
 
 ---
 
-## 🎯 Experience  
+## 🎯 Internship  
 
 **Front-End Developer Intern | SMALL FARE Services Pvt. Ltd** *(Jul 2024 - Oct 2024)*  
 🔹 Developed and optimized **Eventsfare Website & Organizer Dashboard**  
 🔹 Created **event registration forms** and **marketing templates**  
-
----
-
-## 🎓 Education  
-🎓 **B.E. Computer Science Engineering** *(2020 - 2024)*  
-📍 Rajalakshmi Engineering College | **CGPA: 8.18**  
-
-📌 **Higher Secondary (2018 - 2020)** | **61.00%**  
-📌 **Secondary (Up to 2018)** | **84.00%**  
 
 ---
 
