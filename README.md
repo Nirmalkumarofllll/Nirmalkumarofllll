@@ -26,8 +26,11 @@
 
 ## 📊 Top Languages
 <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nirmalkumarofllll&theme=tokyonight" width="48%" alt="Top Languages" /> </p>
-📈 Total Commits
-<p align="center"><img src="https://img.shields.io/github/commit-activity/y/Nirmalkumarofllll?label=Total%20Commits&color=brightgreen&style=flat-square" alt="Total Commits"> </p>
+📈 Total Commits  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nirmalkumarofllll&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
 
 ---
 
