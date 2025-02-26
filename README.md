@@ -18,10 +18,9 @@
 
 ## 🖥️ Workspace  
 <p align="center">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%" alt="Developer at work" />
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="40%" alt="Coding GIF" />
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%" height="200px" alt="Developer at work" />
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="40%" height="200px" alt="Coding GIF" />
 </p>
-
 ---
 
 ## 📊 Top Languages
