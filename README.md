@@ -2,7 +2,7 @@
 <h3 align="center">Front-end Developer </h3>
 
 <p align="center">
-  <a href="https://[your-portfolio-link.com](https://nirmalkumarofllll.github.io/Portfolio/)" target="_blank">🌐 Portfolio</a> •
+  <a href="https://[portfolio](https://nirmalkumarofllll.github.io/Portfolio/)" target="_blank">🌐 Portfolio</a> •
   <a href="www.linkedin.com/in/nirmalkumarp-ofllll" target="_blank">💼 LinkedIn</a> •
   <a href="mailto:nirmal2404620@gmail.com">📧 Contact</a>
 </p>
@@ -14,7 +14,7 @@
 ### 📊 GitHub Stats  
 <p align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Rishi-Sudhakar&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nirmalkumarofllll&show_icons=true&theme=tokyonight" width="48%" />
 </p>
 
 ---
