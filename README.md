@@ -43,8 +43,8 @@
 💬 Feel free to **reach out** for collaborations, discussions, or just to say hi!  
 
 📧 **Email:** nirmal2404620@gmail.com 
-📌 **Portfolio:** [your-portfolio-link.com](https://your-portfolio-link.com)  
-💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
+📌 **Portfolio:** ([portfolio](https://nirmalkumarofllll.github.io/Portfolio/))  
+💼 **LinkedIn:** [linkedin](www.linkedin.com/in/nirmalkumarp-ofllll)  
 
 ---
 
