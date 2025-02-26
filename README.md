@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nirmalkumar</h1>
-<h3 align="center">Front-end Developer | Cybersecurity Enthusiast</h3>
+<h3 align="center">Developer</h3>
 
 <p align="center">
   <a href="https://nirmalkumarofllll.github.io/Portfolio/" target="_blank">🌐 Portfolio</a> •
