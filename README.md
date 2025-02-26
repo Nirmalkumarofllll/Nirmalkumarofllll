@@ -24,8 +24,8 @@
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nirmalkumarofllll&theme=tokyonight" width="48%" alt="GitHub Streak" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nirmalkumarofllll&theme=tokyonight" width="48%" alt="Top Languages" /> </p>
+## 📊 Top Languages
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nirmalkumarofllll&theme=tokyonight" width="48%" alt="Top Languages" /> </p>
 
 ---
 
