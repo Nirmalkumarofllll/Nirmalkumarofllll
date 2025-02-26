@@ -19,7 +19,7 @@
 ## 🖥️ Workspace  
 <p align="center">
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%" height="250px" alt="Developer at work" />
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="40%" height="540px" alt="Coding GIF" />
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="40%" height="250px" alt="Coding GIF" />
 </p>
 
 ---
