@@ -3,7 +3,7 @@
     <p><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=84C2C0&center=true&vCenter=true&width=435&height=25%&lines=Welcome+to+My+Profile+!;Have a look+to+my +projects+!;" alt="Typing SVG" /></p>
 </div> 
 <h1 align="center">Hi 👋, I'm Nirmalkumar</h1>
-<h3 align="center"><img src="./Image/cat-coder.gif" width="30px">Developer</h3>
+<h3 align="center"> <img src="./Image/cat-coder.gif" width="30px"> Developer</h3>
 
 <p align="center">
   <a href="https://nirmalkumarofllll.github.io/Portfolio/" target="_blank">🌐 Portfolio</a> •
