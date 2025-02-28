@@ -122,8 +122,6 @@
 
 ---
 <div align="center">
-   <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Sedan+SC&weight=500&size=30&pause=1000&color=F63024&background=6883FF00&center=true&vCenter=true&random=false&width=435&lines=Thanks+For+Visiting+!" alt="Typing SVG" />
-   </a>
-</div>
+    <p><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=84C2C0&center=true&vCenter=true&width=435&height=25%&lines=Thanks+For+Visiting+!" alt="Typing SVG" /></p>
+</div> 
 ⭐ **If you like my work, consider giving my repositories a star!** 🚀  
