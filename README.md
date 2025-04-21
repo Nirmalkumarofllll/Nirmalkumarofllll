@@ -68,6 +68,8 @@
 ✅ **Certified Ethical Hacking** - EC Council  
 ✅ **Database Management Systems** - Infosys  
 ✅ **Robotic Process Automation** - UiPath  
+✅ **AWS Cloud Practitioner Essentials** - AMAZON WEB SERVICES  
+✅ **Career Essentials in Generative AI** - LINKEDIN AND MICROSOFT
 ✅ **Intrusion Detection Systems** - IEE ICIAT Conference  
 
 ---
